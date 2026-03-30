@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "realize",
+  "base_artist": "あたらよ",
+  "createdAt": "2026-03-30T07:34:27.935812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Realize",
+      "artist": "Codeine",
+      "has_synced": false,
+      "path": "select/01_Realize_Codeine.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do You Realize??",
+      "artist": "The Flaming Lips",
+      "has_synced": true,
+      "path": "select/02_Do_You_Realize_The_Flaming_Lips.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Do You Realize??",
+      "artist": "The Reign of Kindo",
+      "has_synced": true,
+      "path": "select/03_Do_You_Realize_The_Reign_of_Kindo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do You Realize",
+      "artist": "The Reign of Kindo",
+      "has_synced": true,
+      "path": "select/04_Do_You_Realize_The_Reign_of_Kindo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Better Realize",
+      "artist": "REO Speedwagon",
+      "has_synced": false,
+      "path": "select/05_You_Better_Realize_REO_Speedwagon.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sometimes I Realize",
+      "artist": "Engineers",
+      "has_synced": true,
+      "path": "select/06_Sometimes_I_Realize_Engineers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Do You Realize?? - T.P.S. Remix",
+      "artist": "The Flaming Lips",
+      "has_synced": true,
+      "path": "select/07_Do_You_Realize__-_T.P.S._Remix_The_Flaming_Lips.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come to Realize",
+      "artist": "Prong",
+      "has_synced": true,
+      "path": "select/08_Come_to_Realize_Prong.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Realize",
+      "artist": "Imagika",
+      "has_synced": false,
+      "path": "select/09_Realize_Imagika.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Real Eyes, Realize, Real Lies",
+      "artist": "Machine Head",
+      "has_synced": false,
+      "path": "select/10_Real_Eyes,_Realize,_Real_Lies_Machine_Head.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Realize",
+      "artist": "Colbie Caillat",
+      "has_synced": true,
+      "path": "select/11_Realize_Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Realize",
+      "artist": "Bell, Book & Candle",
+      "has_synced": true,
+      "path": "select/12_Realize_Bell,_Book_&_Candle.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dont You Realize",
+      "artist": "Vanilla Ninja",
+      "has_synced": true,
+      "path": "select/13_Dont_You_Realize_Vanilla_Ninja.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't You Realize",
+      "artist": "Vanilla Ninja",
+      "has_synced": true,
+      "path": "select/14_Don't_You_Realize_Vanilla_Ninja.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Realize",
+      "artist": "Megan McCauley",
+      "has_synced": true,
+      "path": "select/15_I_Realize_Megan_McCauley.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Realize",
+      "artist": "2 Chainz feat. Nicki Minaj",
+      "has_synced": true,
+      "path": "select/16_Realize_2_Chainz_feat._Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Realize",
+      "artist": "2 Chainz & Nicki Minaj",
+      "has_synced": true,
+      "path": "select/17_Realize_2_Chainz_&_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "realize",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_realize_あたらよ.txt"
+    }
+  ]
+}
